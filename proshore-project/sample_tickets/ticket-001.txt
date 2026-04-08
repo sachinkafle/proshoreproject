@@ -1,0 +1,8 @@
+Hello Support Team,
+
+I'm trying to pay my monthly invoice for the premium subscription, but every time I enter my credit card details, the website gives me a "500 Internal Server Error". 
+I've tried different browsers but it happens every time. Please help me fix this, my bill is due tomorrow!
+
+Regards,
+John Doe
+Account: 12345-A
