@@ -1,0 +1,11 @@
+# Prevent secrets and system files from being tracked by Git
+local.settings.json
+.env
+.venv/
+__pycache__/
+*.pyc
+.azurite/
+/src/.python_packages/
+# Azure Functions logs
+.vscode/
+.history
