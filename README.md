@@ -1,4 +1,4 @@
-# 🚀 Enterprise Customer Incident Router (Azure AI & Redis)
+# 🚀 Proshore project Technical Assessment (LLM/AI & Redis)
 
 An automated, event-driven, and scalable backend pipeline for processing customer support tickets using **Azure OpenAI Service**, **Azure Functions**, and **Redis Vector Similarity Search** for semantic caching.
 
